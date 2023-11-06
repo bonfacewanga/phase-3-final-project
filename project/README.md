@@ -73,5 +73,5 @@ Utilizes these data structures for various data storage and manipulation tasks.
 
 This project fulfills the specified requirements, showcasing proficiency in Python fundamentals, object-oriented programming, SQL, SQLAlchemy ORM, and CLI application development.
 
-
+`````
 
